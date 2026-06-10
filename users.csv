@@ -1,0 +1,6 @@
+user_id,first_name,last_name,email,phone,date_of_birth,gender,city,state,country,signup_date,last_login,status,is_premium,total_orders,total_spent
+1001,John,Smith,john.smith@example.com,+1-555-1001,1988-04-15,Male,New York,NY,USA,2023-01-10,2025-05-30,Active,True,24,3850.75
+1002,Emma,Johnson,emma.johnson@example.com,+1-555-1002,1992-08-21,Female,Chicago,IL,USA,2023-02-14,2025-05-28,Active,False,8,720.4
+1003,Liam,Williams,liam.williams@example.com,+1-555-1003,1985-11-03,Male,Dallas,TX,USA,2022-09-18,2025-05-25,Inactive,False,15,1940.25
+1004,Olivia,Brown,olivia.brown@example.com,+1-555-1004,1997-02-11,Female,Los Angeles,CA,USA,2024-01-07,2025-06-01,Active,True,32,5420.6
+1005,Noah,Jones,noah.jones@example.com,+1-555-1005,1990-06-30,Male,Seattle,WA,USA,2023-06-22,2025-05-29,Suspended,False,4,210.5
