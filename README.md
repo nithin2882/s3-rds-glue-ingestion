@@ -87,7 +87,7 @@ The pipeline ingests CSV data from Amazon S3, validates it using Pandas, loads i
 
 ![Glue](screenshots/glue-catalog.png)
 
-### Docker Build
+### Fallback 
 
-![Docker](screenshots/docker-build.png)
+![Fallback](screenshots/fallback-file.png)
 
