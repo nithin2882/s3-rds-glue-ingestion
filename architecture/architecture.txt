@@ -1,0 +1,21 @@
+                 users.csv
+                      |
+                      v
+                 Amazon S3
+                      |
+                      v
+             Python Validation
+                      |
+             +--------+--------+
+             |                 |
+             v                 v
+       Amazon RDS       S3 Fallback Zone
+        (Primary)             |
+                              v
+                       AWS Glue Catalog
+                              |
+                              v
+                       Replay Service
+                              |
+                              v
+                         Amazon RDS
